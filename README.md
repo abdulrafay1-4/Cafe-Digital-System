@@ -1,0 +1,2 @@
+# Cafe-Digital-System
+ The project is an Object-Oriented Programming-based Café Digital System (CDS) that provides secure login functionality, stock management, and order handling. It implements features like file handling, password encryption, and binary data processing. The system is designed for both admin and employee users, allowing easy stock tracking, order processing, and complaint management.
